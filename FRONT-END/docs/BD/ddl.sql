@@ -598,6 +598,7 @@ VALUES
 SELECT * FROM configuracao_geral;
 
 
+
 -- ==========================================
 -- 11. TABELA CONFIGURACAO RFID
 -- ==========================================
